@@ -4,3 +4,9 @@ Students will fork and clone. Then we will add to the repo together
 git remote -v
 knowing where you are going to push to 
 
+# Question 2-How many students are in or were in Air Force
+two
+
+# question 3 - stay tuned
+
+
