@@ -31,3 +31,12 @@ question 4 -
 style
 css cascading sheet with <link rel="stylesheet" href=" Link copy past here" >
 
+question 5 - how many ways can you declare a variable
+var newVar="string";
+var newNum = 5;
+let x=50;
+has scope constraints. let is constrained to whichever scope it is declared in. Its declaration and assignment are similar to var. let was introduced to mitigate issues posed by variables scope which developers face during development.
+const cannot be redeclared
+const x= 40;
+const y= female;
+const z= new developer;
